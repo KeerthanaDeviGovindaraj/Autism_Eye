@@ -1,15 +1,26 @@
 # Autism_Eye
 
-Eye tracking has emerged as a valuable technique for early autism spectrum disorder
-(ASD) detection, capturing atypical visual attention patterns crucial for effective
-learning. This study introduces three artificial intelligence methods for early
-diagnosis: neural networks (NNs) using hybrid feature classification, pre-trained
-convolutional neural networks (CNNs), and hybrid deep learning/machine learning
-(DL/ML) using CNNs and SVM. The first approach achieves a 99.8% accuracy with
-feature classification from hybrid local binary pattern and grey level co-occurrence
-matrix algorithms. The second method, employing Google Net and ResNet-18
-models, attains 93.6% and 97.6% accuracies respectively through deep feature map
-extraction. The third technique, combining Google Net/ResNet-18 with SVM,
-showcases diagnostic prowess with accuracies of 95.5% and 94.5% respectively.
-Overall, integrating eye tracking and AI methods proves effective for early ASD
-diagnosis based on distinct visual behaviors.
+## Project Description
+This project develops an automated system for early autism spectrum disorder (ASD) diagnosis using eye tracking technology and artificial intelligence. The system analyzes visual attention patterns through three different AI approaches to identify atypical behaviors associated with autism.
+
+## Key Features:
+
+- Eye tracking data analysis for ASD detection
+- Three AI methodologies for classification
+- High accuracy rates (93.6% - 99.8%)
+- Early diagnosis support tool
+
+## Technologies Used:
+
+- Neural Networks (NN)
+- Convolutional Neural Networks (CNN)
+- Support Vector Machine (SVM)
+- GoogleNet & ResNet-18 architectures
+- Hybrid feature extraction (LBP + GLCM)
+
+## Results:
+
+Method 1 (NN + Hybrid Features): 99.8% accuracy
+Method 2 (Pre-trained CNNs): 93.6% - 97.6% accuracy
+Method 3 (CNN + SVM): 94.5% - 95.5% accuracy
+
