@@ -1,7 +1,7 @@
 # Autism_Eye
 
 ## Project Description
-This project develops an automated system for early autism spectrum disorder (ASD) diagnosis using eye tracking technology and artificial intelligence. The system analyzes visual attention patterns through three different AI approaches to identify atypical behaviors associated with autism.
+This project develops an automated system for early autism spectrum disorder (ASD) diagnosis using eye tracking technology and Machine Learning and Deep Learning methods. The system analyzes visual attention patterns through three different AI approaches to identify atypical behaviors associated with autism.
 
 ## Key Features:
 
